@@ -1,12 +1,8 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# SBAi
+## 목표
+척추측만증을 조기에 발견하고 관리하기 위한 모바일 앱 개발
+## 주요기능
+- 이미지 기반 자세 분석 (어깨 높이, 허리 곡선 등)
+- 자가 진단 통한 주관적 증상 파악
+- 맞춤형 결과 제공
+## 기술스택
